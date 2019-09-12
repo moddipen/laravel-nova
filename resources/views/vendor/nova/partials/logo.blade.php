@@ -1,0 +1,1 @@
+<p class="text-center w-full"><h2>Authentication</h2></p>
